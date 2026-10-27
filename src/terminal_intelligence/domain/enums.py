@@ -8,7 +8,7 @@ class CommandRisk(StrEnum):
 
     UNKNOWN = "unknown"
     LOW = "low"
-    MEDIUM = "medium"
+    MEDIUM = "mediuffm"
     HIGH = "high"
     CRITICAL = "critical"
 
